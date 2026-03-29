@@ -1,4 +1,4 @@
-# Imposition in quarto — livret A3 (imbriqué)
+# Imposition in-quarto — livret A3 (imbriqué)
 
 ![Exemple d’interface](medias/capture.png)
 ![Exemple d’interface](medias/final.png)
