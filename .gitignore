@@ -1,0 +1,22 @@
+# Environnements Python
+.venv/
+.inquarto/.venv/
+dist/
+.inquarto/dist/
+
+# Dossier local (PDFs déjà traités) — pas versionné (nom réel : « deja traité »)
+deja trait*/
+DN1 - livret saby npages v2/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Système / sauvegardes
+.DS_Store
+*.bak
+
+# Sorties d’imposition générées (ne pas versionner)
+*_impose_A3.pdf
+
+# Les PDF d’exemple à la racine du projet (ex. maquette) sont suivis par Git.
