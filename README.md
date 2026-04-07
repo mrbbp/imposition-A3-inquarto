@@ -1,7 +1,3 @@
-Voici une version reformulée du texte original en utilisant le vouvoiement et un ton professionnel, sans en modifier la structure ni le contenu :
-
----
-
 ## **Imposition in-quarto — livret A3 (imbriqué)**
 
 ### **En bref**
