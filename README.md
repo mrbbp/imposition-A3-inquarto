@@ -127,6 +127,3 @@ Si le verso est décalé ou inversé, modifiez l’option de retournement dans l
 | **`.inquarto/requirements.txt`** | Dépendances Python. |
 
 Pour modifier l’ordre ou les rotations après un essai papier : éditez **`.inquarto/layouts_dynamic.py`**.
-
----
-**Besoin d’informations complémentaires ?** Je reste à votre disposition pour toute question ou précision.
